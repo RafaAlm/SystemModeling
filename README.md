@@ -19,4 +19,8 @@ Esse projeto é referente a conclusão da materia de modelagem de sistema. Nele 
 - Diagrama BPMN de cada Caso de Uso
 - Implementação do código do diagrama de classe
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68666224/171728158-64edfed6-4dde-461b-8eab-8c5efbf2b53c.PNG" width="700px" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
