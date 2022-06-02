@@ -4,7 +4,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Neste+Projeto+Vamos+Modelar+e+Implementar;+Um+Sistema+Que+Oferece+Serviços+de+Streaming;+Internet+e+Telefonia+;Seja+Bem+Vindo!;)](https://git.io/typing-svg)
 
 
-
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 
 
